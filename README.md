@@ -1,7 +1,7 @@
 # Us-State-Guessing-Game-
 An interactive Python game built with Turtle and Pandas that loads U.S state data from a CSV file 
 
-<img src="media/preview.gif1" width="600">
+<img src="media/preview1.gif" width="600">
 
 ---
 
